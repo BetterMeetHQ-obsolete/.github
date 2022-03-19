@@ -11,4 +11,4 @@ Follow us on:
 - [Instagram](https://www.instagram.com/bettermeetnet/)
 - [YouTube](https://www.youtube.com/channel/UCD1AIJFzM1qq70pA6x6GM_w?sub_confirmation=1)
 
-The live version will be launched on the project's homepage at [https://bettermeet.net/](bettermeet.net).
+The live version will be launched on the project's homepage at [bettermeet.net](https://bettermeet.net/).
