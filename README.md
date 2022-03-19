@@ -1,6 +1,6 @@
 Hi there 👋
 
-Currently all repos in this org are private. The BetterMeet project is currently in a closed development mode.
+Currently all repos private. The BetterMeet project is in a closed development mode.
 
 We'll keep our followers updated about the development of the project and will invite interested users to become beta testers.
 
