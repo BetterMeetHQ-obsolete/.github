@@ -9,6 +9,6 @@ Follow us on:
 - [LinkedIn](https://www.linkedin.com/company/bettermeet/)
 - [Twitter](https://twitter.com/bettermeetnet)
 - [Instagram](https://www.instagram.com/bettermeetnet/)
-- [YouTube](https://www.youtube.com/channel/UCD1AIJFzM1qq70pA6x6GM_w?sub_confirmation=1)
+- [YouTube](https://www.youtube.com/channel/UCX9JRD2uUXMO2EYKkX4Bhvw?sub_confirmation=1)
 
 The live version will be launched on the project's homepage at [bettermeet.com](https://bettermeet.com/).
